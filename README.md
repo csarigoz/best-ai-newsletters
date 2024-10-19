@@ -1,4 +1,4 @@
-# Best AI Newsletters: Your Gateway to Artificial Intelligence Insights
+# Best AI Newsletters
 
 A curated, up-to-date list of AI newsletters for enthusiasts, practitioners, and professionals alike.
 
