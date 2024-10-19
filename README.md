@@ -31,5 +31,4 @@ A curated, up-to-date list of AI newsletters for enthusiasts, practitioners, and
 - [The Loz Letter](https://www.loz.ai/subscribe?utm_source=newsletter.bizstack.tech) - Insights into the world of AI
 - [AI Hustle](https://aihustle.beehiiv.com/?utm_source=newsletter.bizstack.tech) - Stay updated on AI developments
 - [AI Tool Report](https://aitoolreport.beehiiv.com/subscribe?utm_source=newsletter.bizstack.tech) - Learn to save time and earn more with AI
-- [Inside AI](https://inside.com/ai?utm_source=newsletter.bizstack.tech) - Weekly roundup of AI, Robotics, and Neurotechnology
-- [Import AI](https://twitter.us13.list-manage.com/subscribe?u=67bd06787e84d73db24fb0aa5&id=6c9d98ff2c) - Latest AI breakthroughs and applications
+- [Import AI](https://importai.substack.com/?utm_source=newsletter.bizstack.tech) - Weekly analysis and updates on AI
