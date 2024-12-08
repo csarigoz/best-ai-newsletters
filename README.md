@@ -32,3 +32,4 @@ A curated, up-to-date list of AI newsletters for enthusiasts, practitioners, and
 - [AI Hustle](https://aihustle.beehiiv.com/?utm_source=newsletter.bizstack.tech) - Stay updated on AI developments
 - [AI Tool Report](https://aitoolreport.beehiiv.com/subscribe?utm_source=newsletter.bizstack.tech) - Learn to save time and earn more with AI
 - [Import AI](https://importai.substack.com/?utm_source=newsletter.bizstack.tech) - Weekly analysis and updates on AI
+- [Road to Artificia](http://roadtoartificia.com/?utm_source=newsletter.bizstack.tech) - A newsletter about discovering the principles of societies, post‑AI
