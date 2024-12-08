@@ -2,6 +2,8 @@
 
 A curated, up-to-date list of AI newsletters for enthusiasts, practitioners, and professionals alike.
 
+Want to add your newsletter to the list? [Submit it here](https://forms.gle/HXQ5zEvvmmCWQhUR6) or fork this repo and add it yourself, then submit a PR.
+
 ## 🌟 General AI Newsletters
 
 - [Mindstream](https://mindstream.news?utm_source=newsletter.bizstack.tech) - Daily hot takes, expert opinions, and interactive polls
