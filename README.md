@@ -11,6 +11,7 @@ Want to add your newsletter to the list? [Submit it here](https://forms.gle/HXQ5
 - [The Neuron](https://www.theneurondaily.com/subscribe?utm_source=newsletter.bizstack.tech) - Essential AI trend updates to keep you in the know
 - [Superhuman](https://www.superhuman.ai/subscribe?utm_source=newsletter.bizstack.tech) - Boost your productivity and career with AI insights
 - [AI Daybreak](https://www.aidaybreak.com/subscribe?_bhba=ee073b75-979c-4c6b-a41d-1d50167e57db) - Daily AI insights with a humorous twist
+- [LLMs Research](https://www.llmsresearch.com/subscribe) - Bi-weekly research newsletter covering research in large language models (LLMs)
 
 ## 🧰 AI Newsletters on AI Tools
 - [FutureTools Weekly](https://futuretools.beehiiv.com/subscribe?utm_source=newsletter.bizstack.tech) - Comprehensive roundup of AI tools, news, and monetization strategies
