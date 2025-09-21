@@ -4,6 +4,11 @@ A curated, up-to-date list of active AI newsletters for enthusiasts, practitione
 
 Want to add your newsletter to the list? [Send me an email](mailto:cagri@heybe.ai?subject=Best%20AI%20Newsletters%20Submission) or fork this repo and add it yourself, then submit a PR.
 
+Liked it? 
+- [Share this list on X >>](https://x.com/intent/post?url=https://github.com/csarigoz/best-ai-newsletters&text=Check%20out%20this%20list%20of%20the%20best%20AI%20newsletters%20by%20@cagrisarigoz%20%F0%9F%91%89).
+- Star the repo ⭐️
+- Watch the repo for updates 👀
+
 ## Table of Contents
 
 - [General AI Newsletters](#general)
