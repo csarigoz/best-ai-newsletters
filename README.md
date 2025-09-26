@@ -44,7 +44,6 @@ Perfect for staying updated on AI trends, news, and developments across all area
 - [Ben's Bites](https://www.bensbites.com/?utm_source=github.com/csarigoz/best-ai-newsletters) - Daily AI updates in fun, casual, and easy-to-digest format
 - [Mindstream](https://mindstream.news?utm_source=github.com/csarigoz/best-ai-newsletters) - Daily hot takes, expert opinions, and interactive polls
 - [AI Breakfast](https://aibreakfast.beehiiv.com/?utm_source=github.com/csarigoz/best-ai-newsletters) - Weekly deep dives into cutting-edge AI projects and trends (3x per week, 54K+ subscribers)
-- [There's An AI For That](https://newsletter.theresanaiforthat.com/) - Daily newsletter on AI news and tools
 - [AI Ready (fka Not A Bot)](https://www.aiready.so/?utm_source=github.com/csarigoz/best-ai-newsletters) - Daily AI news, written by humans
 - [AI Valley](https://www.theaivalley.com/?utm_source=github.com/csarigoz/best-ai-newsletters) - Daily comprehensive AI updates with tools and tutorials
 
@@ -76,6 +75,7 @@ AI insights specifically tailored for business leaders, executives, and enterpri
 
 Discover and learn about the latest AI tools, platforms, and software.
 
+- [There's An AI For That](https://newsletter.theresanaiforthat.com/) - Daily newsletter on AI news and tools
 - [FutureTools](https://futuretools.beehiiv.com/subscribe?utm_source=github.com/csarigoz/best-ai-newsletters) - Comprehensive roundup of AI tools, news, and monetization strategies
 - [AI Tool Report](https://aitoolreport.beehiiv.com/subscribe?utm_source=github.com/csarigoz/best-ai-newsletters) - Learn to save time and earn more with AI
 - [AI Break](https://theaibreak.substack.com/?utm_source=github.com/csarigoz/best-ai-newsletters) - AI tools integration into business processes
