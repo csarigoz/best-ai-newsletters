@@ -42,8 +42,8 @@ Perfect for staying updated on AI trends, news, and developments across all area
 - [Superhuman AI](https://www.superhuman.ai/subscribe?utm_source=github.com/csarigoz/best-ai-newsletters) - Boost your productivity and career with AI insights
 - [TLDR AI](https://tldr.tech/ai?utm_source=github.com/csarigoz/best-ai-newsletters) - Daily digest of AI, machine learning, and data science news
 - [Ben's Bites](https://www.bensbites.com/?utm_source=github.com/csarigoz/best-ai-newsletters) - Daily AI updates in fun, casual, and easy-to-digest format
-- [Mindstream](https://mindstream.news?utm_source=github.com/csarigoz/best-ai-newsletters) - Daily hot takes, expert opinions, and interactive polls
-- [AI Breakfast](https://aibreakfast.beehiiv.com/?utm_source=github.com/csarigoz/best-ai-newsletters) - Weekly deep dives into cutting-edge AI projects and trends (3x per week, 54K+ subscribers)
+- [Mindstream](https://mindstream.news?utm_source=github.com/csarigoz/best-ai-newsletters) - Daily hot takes, expert opinions, and interactive polls (in HubSpot Media Network)
+- [AI Breakfast](https://aibreakfast.beehiiv.com/?utm_source=github.com/csarigoz/best-ai-newsletters) - Weekly deep dives into cutting-edge AI projects and trends (3x per week)
 - [AI Ready (fka Not A Bot)](https://www.aiready.so/?utm_source=github.com/csarigoz/best-ai-newsletters) - Daily AI news, written by humans
 - [AI Valley](https://www.theaivalley.com/?utm_source=github.com/csarigoz/best-ai-newsletters) - Daily comprehensive AI updates with tools and tutorials
 
@@ -57,27 +57,27 @@ For AI engineers, researchers, and technical professionals who want in-depth tec
 - [The ML Engineer Newsletter](https://ethical.institute/mle.html?utm_source=github.com/csarigoz/best-ai-newsletters) - Expert insights on machine learning best practices
 - [AlphaSignal](https://alphasignal.ai/?utm_source=github.com/csarigoz/best-ai-newsletters) - Daily digest for engineers with coding tips and trending repos
 - [The Sequence](https://thesequence.substack.com/?utm_source=github.com/csarigoz/best-ai-newsletters) - Weekly no-BS approach to AI with practical applications
-- [Latent Space](https://latent.space/?utm_source=github.com/csarigoz/best-ai-newsletters) - Technical insights for AI engineers on model training and infrastructure
+- [Latent Space](https://latent.space/?utm_source=github.com/csarigoz/best-ai-newsletters) - Technical insights for AI engineers on model training and infrastructure (Top 10 US Tech podcast)
 
 <a name="business-enterprise"></a>
 ## 🏢 Business & Enterprise
 
 AI insights specifically tailored for business leaders, executives, and enterprise decision-makers.
 
-- [Enterprise AI Solutions](https://www.enterpriseaisolutions.io?utm_source=github.com/csarigoz/best-ai-newsletters) - No-fluff AI insights for 10,000+ enterprise leaders
+- [Enterprise AI Solutions](https://www.enterpriseaisolutions.io?utm_source=github.com/csarigoz/best-ai-newsletters) - No-fluff AI insights for 10,000+ enterprise leaders (actionable strategies and real-world use cases)
 - [AI Adopters Club](https://aiadopters.club/?utm_source=github.com/csarigoz/best-ai-newsletters) - Practical look at how businesses use AI with case studies
-- [Ahead of AI](https://magazine.sebastianraschka.com/?utm_source=github.com/csarigoz/best-ai-newsletters) - Research trends and practical developments for business audience
+- [Ahead of AI](https://magazine.sebastianraschka.com/?utm_source=github.com/csarigoz/best-ai-newsletters) - Research trends and practical developments by Sebastian Raschka, PhD
 - [AI News](https://artificialintelligence-news.com/newsletter/?utm_source=github.com/csarigoz/best-ai-newsletters) - Newsletter written partly with AI, covering industry trends
-- [The AI Optimist](https://www.theaioptimist.com/?utm_source=github.com/csarigoz/best-ai-newsletters) - Strategic AI briefings for business decision makers
+- [The AI Optimist](https://www.theaioptimist.com/?utm_source=github.com/csarigoz/best-ai-newsletters) - Strategic AI briefings for business decision makers (weekly, action-focused)
 
 <a name="ai-tools"></a>
 ## 🧰 AI Tools & Platforms
 
 Discover and learn about the latest AI tools, platforms, and software.
 
-- [There's An AI For That](https://newsletter.theresanaiforthat.com/) - Daily newsletter on AI news and tools
+- [There's An AI For That](https://newsletter.theresanaiforthat.com/?utm_source=github.com/csarigoz/best-ai-newsletters) - Daily newsletter on AI news and tools (3x per week)
 - [FutureTools](https://futuretools.beehiiv.com/subscribe?utm_source=github.com/csarigoz/best-ai-newsletters) - Comprehensive roundup of AI tools, news, and monetization strategies
-- [AI Tool Report](https://aitoolreport.beehiiv.com/subscribe?utm_source=github.com/csarigoz/best-ai-newsletters) - Learn to save time and earn more with AI
+- [AI Tool Report](https://aitoolreport.beehiiv.com/subscribe?utm_source=github.com/csarigoz/best-ai-newsletters) - Learn to save time and earn more with AI (5-minute daily updates)
 - [AI Break](https://theaibreak.substack.com/?utm_source=github.com/csarigoz/best-ai-newsletters) - AI tools integration into business processes
 
 <a name="prompts"></a>
@@ -85,8 +85,7 @@ Discover and learn about the latest AI tools, platforms, and software.
 
 Master the art of prompt engineering and get the most out of AI models.
 
-- [Prompts Daily](https://www.neatprompts.com/subscribe?utm_source=github.com/csarigoz/best-ai-newsletters) - Discover AI-powered marketing and productivity hacks
-- [Prompt Engineering Daily](https://promptengineeringdaily.com/?utm_source=github.com/csarigoz/best-ai-newsletters) - Daily insights into prompt engineering and AI integration
+- [Prompts Daily](https://www.neatprompts.com/subscribe?utm_source=github.com/csarigoz/best-ai-newsletters) - Discover AI-powered marketing and productivity hacks (100K+ readers)
 
 <a name="sales-marketing"></a>
 ## 🚀 Sales & Marketing
@@ -132,10 +131,10 @@ For researchers, academics, and those interested in cutting-edge AI research.
 
 - [The Algorithmic Bridge](https://thealgorithmicbridge.substack.com/?utm_source=github.com/csarigoz/best-ai-newsletters) - AI from human-centric perspective with ethical contexts
 - [Last Week in AI](https://lastweekin.ai/?utm_source=github.com/csarigoz/best-ai-newsletters) - Weekly concise updates on AI research and developments
-- [Stanford HAI Newsletter](https://hai.stanford.edu/news?utm_source=github.com/csarigoz/best-ai-newsletters) - Weekly research, policy, and education updates
+- [Stanford HAI Newsletter](https://hai.stanford.edu/news?utm_source=github.com/csarigoz/best-ai-newsletters) - Weekly research, policy, and education updates from Stanford
 - [The Gradient (Stanford)](https://thegradientpub.substack.com/s/the-update?utm_source=github.com/csarigoz/best-ai-newsletters) - Academic AI research with democratizing knowledge focus
 - [Edge AI and Vision Insights](https://www.edge-ai-vision.com/latest-news/newsletter/?utm_source=github.com/csarigoz/best-ai-newsletters) - Computer vision, edge AI, and embedded vision
-- [The Variable (Towards Data Science)](https://towardsdatascience.com/) - Data science and ML research with practical applications
+- [The Variable (Towards Data Science)](https://towardsdatascience.com/?utm_source=github.com/csarigoz/best-ai-newsletters) - Data science and ML research with practical applications
 
 <a name="creative-content"></a>
 ## 🎨 Creative & Content
@@ -143,7 +142,7 @@ For researchers, academics, and those interested in cutting-edge AI research.
 AI newsletters for creators, writers, and content professionals.
 
 - [Write with AI](https://writewithai.substack.com/?utm_source=github.com/csarigoz/best-ai-newsletters) - Teaching writers how to use AI for content creation
-- [Visually AI](https://heatherbcooper.substack.com/?utm_source=github.com/csarigoz/best-ai-newsletters) - Generative AI-focused content covering tools, prompts, and news
+- [Visually AI](https://heatherbcooper.substack.com/?utm_source=github.com/csarigoz/best-ai-newsletters) - Generative AI-focused content covering tools, prompts, and news (weekly)
 - [AI Art Weekly](https://aiartweekly.com/?utm_source=github.com/csarigoz/best-ai-newsletters) - AI art news, interviews, and creative resources
 
 <a name="safety-ethics"></a>
@@ -183,7 +182,7 @@ Newsletters from major AI platforms and companies.
 <a name="curation-policy"></a>
 ## 🧹 Curation Policy
 
-Only active newsletters are listed here. A newsletter is considered active if it has published at least one issue in the last 30 days. Inactive newsletters are periodically removed to keep this list fresh and useful. This list was last updated in September 2025 and includes 44 active AI newsletters across 11 categories.
+Only active newsletters are listed here. A newsletter is considered active if it has published at least one issue in the last 15 days. Inactive newsletters are periodically removed to keep this list fresh and useful. This list was last updated in November 2025 and includes verified active AI newsletters across 11 categories.
 
 ---
 
