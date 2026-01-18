@@ -135,6 +135,7 @@ For researchers, academics, and those interested in cutting-edge AI research.
 - [The Gradient (Stanford)](https://thegradientpub.substack.com/s/the-update?utm_source=github.com/csarigoz/best-ai-newsletters) - Academic AI research with democratizing knowledge focus
 - [Edge AI and Vision Insights](https://www.edge-ai-vision.com/latest-news/newsletter/?utm_source=github.com/csarigoz/best-ai-newsletters) - Computer vision, edge AI, and embedded vision
 - [The Variable (Towards Data Science)](https://towardsdatascience.com/?utm_source=github.com/csarigoz/best-ai-newsletters) - Data science and ML research with practical applications
+- [LLMs Research](https://www.llmsresearch.substack.com) - Weekly analysis of LLMs-related research papers
 
 <a name="creative-content"></a>
 ## 🎨 Creative & Content
