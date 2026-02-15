@@ -131,6 +131,7 @@ For researchers, academics, and those interested in cutting-edge AI research.
 
 - [The Algorithmic Bridge](https://thealgorithmicbridge.substack.com/?utm_source=github.com/csarigoz/best-ai-newsletters) - AI from human-centric perspective with ethical contexts
 - [Last Week in AI](https://lastweekin.ai/?utm_source=github.com/csarigoz/best-ai-newsletters) - Weekly concise updates on AI research and developments
+- [LLM Watch](https://www.llmwatch.com/?utm_source=github.com/csarigoz/best-ai-newsletters) - Weekly newsletter about the most important AI research with a focus on Large Language Models
 - [Stanford HAI Newsletter](https://hai.stanford.edu/news?utm_source=github.com/csarigoz/best-ai-newsletters) - Weekly research, policy, and education updates from Stanford
 - [The Gradient (Stanford)](https://thegradientpub.substack.com/s/the-update?utm_source=github.com/csarigoz/best-ai-newsletters) - Academic AI research with democratizing knowledge focus
 - [Edge AI and Vision Insights](https://www.edge-ai-vision.com/latest-news/newsletter/?utm_source=github.com/csarigoz/best-ai-newsletters) - Computer vision, edge AI, and embedded vision
