@@ -189,3 +189,4 @@ Only active newsletters are listed here. A newsletter is considered active if it
 **Contributing:** Found an awesome AI newsletter that should be on this list? [Submit a suggestion](mailto:cagri@heybe.ai?subject=Best%20AI%20Newsletters%20Suggestion) or create a pull request!
 
 **Stay Updated:** Star this repository to get notified of updates to the AI newsletter landscape.
+- [Signal AI Digest](https://humanintel.github.io/signal-digest-landing/) - Personalized AI-curated daily news digest via Telegram. 10 minutes of curation across AI, tech, and more.
