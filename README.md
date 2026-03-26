@@ -1,3 +1,4 @@
+ildren
 # Best AI Newsletters
 
 A curated, up-to-date list of active AI newsletters for enthusiasts, practitioners, and professionals alike.
@@ -46,6 +47,7 @@ Perfect for staying updated on AI trends, news, and developments across all area
 - [AI Breakfast](https://aibreakfast.beehiiv.com/?utm_source=github.com/csarigoz/best-ai-newsletters) - Weekly deep dives into cutting-edge AI projects and trends (3x per week)
 - [AI Ready (fka Not A Bot)](https://www.aiready.so/?utm_source=github.com/csarigoz/best-ai-newsletters) - Daily AI news, written by humans
 - [AI Valley](https://www.theaivalley.com/?utm_source=github.com/csarigoz/best-ai-newsletters) - Daily comprehensive AI updates with tools and tutorials
+- [AIMiracle MAG](https://aimiracle.ai) - Daily AI news, tool discoveries & tutorials
 
 <a name="technical"></a>
 ## 🧠 Technical & Developer Focused
