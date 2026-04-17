@@ -69,6 +69,7 @@ AI insights specifically tailored for business leaders, executives, and enterpri
 - [Ahead of AI](https://magazine.sebastianraschka.com/?utm_source=github.com/csarigoz/best-ai-newsletters) - Research trends and practical developments by Sebastian Raschka, PhD
 - [AI News](https://artificialintelligence-news.com/newsletter/?utm_source=github.com/csarigoz/best-ai-newsletters) - Newsletter written partly with AI, covering industry trends
 - [The AI Optimist](https://www.theaioptimist.com/?utm_source=github.com/csarigoz/best-ai-newsletters) - Strategic AI briefings for business decision makers (weekly, action-focused)
+- [8bitconcepts Research](https://8bitconcepts.com) - Independent research on enterprise AI adoption — agentic accountability, hallucination budgets, integration tax, governance gaps (weekly, free, no sponsors)
 
 <a name="ai-tools"></a>
 ## 🧰 AI Tools & Platforms
