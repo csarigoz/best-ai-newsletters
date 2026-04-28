@@ -144,6 +144,7 @@ AI newsletters for creators, writers, and content professionals.
 - [Write with AI](https://writewithai.substack.com/?utm_source=github.com/csarigoz/best-ai-newsletters) - Teaching writers how to use AI for content creation
 - [Visually AI](https://heatherbcooper.substack.com/?utm_source=github.com/csarigoz/best-ai-newsletters) - Generative AI-focused content covering tools, prompts, and news (weekly)
 - [AI Art Weekly](https://aiartweekly.com/?utm_source=github.com/csarigoz/best-ai-newsletters) - AI art news, interviews, and creative resources
+- [Creative AI News](https://www.creativeainews.com?utm_source=github.com/csarigoz/best-ai-newsletters) - Weekly AI tools and workflows for every working creator: image, video, audio, 3D, and code.
 
 <a name="safety-ethics"></a>
 ## 🛡 AI Safety & Ethics
