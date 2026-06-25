@@ -34,6 +34,7 @@ Some links on this page are referral/affiliate links. If you click a link and su
 <a name="general"></a>
 ## 🌟 General AI Newsletters
 
+- [AI Weekly](https://aiweekly.co/?utm_source=github.com/csarigoz/best-ai-newsletters) - The few AI news stories that matter, curated by an independent editor since 2015 (3x per week, for 44,000+ professionals)
 Perfect for staying updated on AI trends, news, and developments across all areas.
 
 - ⭐ (Sponsored) [The Neuron](http://recommendations.page/heynews?ref_code=580a42ceb3) - Essential AI trend updates to keep you in the know
