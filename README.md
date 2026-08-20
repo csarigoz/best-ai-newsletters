@@ -69,6 +69,7 @@ AI insights specifically tailored for business leaders, executives, and enterpri
 - [Ahead of AI](https://magazine.sebastianraschka.com/?utm_source=github.com/csarigoz/best-ai-newsletters) - Research trends and practical developments by Sebastian Raschka, PhD
 - [AI News](https://artificialintelligence-news.com/newsletter/?utm_source=github.com/csarigoz/best-ai-newsletters) - Newsletter written partly with AI, covering industry trends
 - [The AI Optimist](https://www.theaioptimist.com/?utm_source=github.com/csarigoz/best-ai-newsletters) - Strategic AI briefings for business decision makers (weekly, action-focused)
+- [The Autonomous Edge](https://buttondown.com/TheAutonomousEdge?utm_source=github.com/csarigoz/best-ai-newsletters) - Weekly briefing on AI agents and enterprise automation: real deployments, funding, security disclosures, and the adoption data behind the headlines
 
 <a name="ai-tools"></a>
 ## 🧰 AI Tools & Platforms
