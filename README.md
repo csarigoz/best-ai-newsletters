@@ -39,6 +39,7 @@ Perfect for staying updated on AI trends, news, and developments across all area
 - ⭐ (Sponsored) [The Neuron](http://recommendations.page/heynews?ref_code=580a42ceb3) - Essential AI trend updates to keep you in the know
 - ⭐ (Sponsored) [The Rundown AI](https://sparklp.co/p/6080ca220f) - Get the latest AI news, understand why it matters, and learn how to apply it in your work
 - ⭐ (Sponsored) [Horizon AI](https://www.joinhorizon.ai/?utm_source=github.com/csarigoz/best-ai-newsletters) - Daily 3-minute briefings on everything you need to know about AI and tech
+- [AI Newsroom by Classwise.io](https://classwise.io/subscribe) - Free daily AI news with verified facts, direct sources, and concise analysis. [Archive](https://classwise.io/daily)
 - [Superhuman AI](https://www.superhuman.ai/subscribe?utm_source=github.com/csarigoz/best-ai-newsletters) - Boost your productivity and career with AI insights
 - [TLDR AI](https://tldr.tech/ai?utm_source=github.com/csarigoz/best-ai-newsletters) - Daily digest of AI, machine learning, and data science news
 - [Ben's Bites](https://www.bensbites.com/?utm_source=github.com/csarigoz/best-ai-newsletters) - Daily AI updates in fun, casual, and easy-to-digest format
