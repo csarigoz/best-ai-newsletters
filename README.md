@@ -58,6 +58,7 @@ For AI engineers, researchers, and technical professionals who want in-depth tec
 - [AlphaSignal](https://alphasignal.ai/?utm_source=github.com/csarigoz/best-ai-newsletters) - Daily digest for engineers with coding tips and trending repos
 - [The Sequence](https://thesequence.substack.com/?utm_source=github.com/csarigoz/best-ai-newsletters) - Weekly no-BS approach to AI with practical applications
 - [Latent Space](https://latent.space/?utm_source=github.com/csarigoz/best-ai-newsletters) - Technical insights for AI engineers on model training and infrastructure (Top 10 US Tech podcast)
+- [PastAGI Weekly](https://www.pastagi.com/newsletter?utm_source=github.com/csarigoz/best-ai-newsletters) - Serving-math audits, benchmark skepticism, and honest tool reviews for AI builders
 
 <a name="business-enterprise"></a>
 ## 🏢 Business & Enterprise
