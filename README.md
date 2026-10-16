@@ -36,6 +36,8 @@ Some links on this page are referral/affiliate links. If you click a link and su
 
 Perfect for staying updated on AI trends, news, and developments across all areas.
 
+- [Calder Brief AI News Hub](https://calder-brief.pages.dev/ai-hub.html) - Calder Brief AI news hub — daily-updated AI news
+
 - ⭐ (Sponsored) [The Neuron](http://recommendations.page/heynews?ref_code=580a42ceb3) - Essential AI trend updates to keep you in the know
 - ⭐ (Sponsored) [The Rundown AI](https://sparklp.co/p/6080ca220f) - Get the latest AI news, understand why it matters, and learn how to apply it in your work
 - ⭐ (Sponsored) [Horizon AI](https://www.joinhorizon.ai/?utm_source=github.com/csarigoz/best-ai-newsletters) - Daily 3-minute briefings on everything you need to know about AI and tech
