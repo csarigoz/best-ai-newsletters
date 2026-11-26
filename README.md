@@ -58,6 +58,7 @@ For AI engineers, researchers, and technical professionals who want in-depth tec
 - [AlphaSignal](https://alphasignal.ai/?utm_source=github.com/csarigoz/best-ai-newsletters) - Daily digest for engineers with coding tips and trending repos
 - [The Sequence](https://thesequence.substack.com/?utm_source=github.com/csarigoz/best-ai-newsletters) - Weekly no-BS approach to AI with practical applications
 - [Latent Space](https://latent.space/?utm_source=github.com/csarigoz/best-ai-newsletters) - Technical insights for AI engineers on model training and infrastructure (Top 10 US Tech podcast)
+- [AI SRE Weekly](https://www.linkedin.com/company/ai-sre-weekly/?utm_source=github.com/csarigoz/best-ai-newsletters) - Weekly coverage of the AI SRE category: vendor launches, funding, incident-automation research and what changed for on-call teams
 
 <a name="business-enterprise"></a>
 ## 🏢 Business & Enterprise
